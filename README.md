@@ -9,7 +9,7 @@ I am a software engineer based in Surabaya, Indonesia. With a greatest passion o
 
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=ssembara&theme=tokyonight&show_icons=true&line_height=27)](https://github.com/ssembara/ssembara)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssembara&hide=blade,html&theme=tokyonight)](https://github.com/ssembara/ssembara)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssembara&hide=blade,css,less,html&theme=tokyonight)](https://github.com/ssembara/ssembara)
 
 <!-- Icons -->
 
