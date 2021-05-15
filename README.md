@@ -9,11 +9,11 @@ I am a software engineer based in Surabaya, Indonesia. With a greatest passion o
 
 Get in touch via email at sembara9090@gmail.com, or You can find me on : 
 
-<a href="https://twitter.com/ssembara99">
-  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+<a href="https://twitter.com/ssembara99" target="_blank">
+  <img align="left" alt="S.Sembara | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-<a href="https://discord.gg/kyRgDpw8QF">
-  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+<a href="https://discord.gg/kyRgDpw8QF" target="_blank">
+  <img align="left" alt="Sembara's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 
 
