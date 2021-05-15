@@ -5,15 +5,27 @@
 
 # Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am a software engineer based in Surabaya, Indonesia. With a greatest passion on web technologies like Laravel, Node, and React frameworks. Get in touch via email at sembara9090@gmail.com, or You can find me on [![Twitter][1.2]][1]
+I am a software engineer based in Surabaya, Indonesia. With a greatest passion on web technologies like Laravel, Node, and React frameworks. 
 
+Get in touch via email at sembara9090@gmail.com, or You can find me on : 
+
+<a href="https://twitter.com/ssembara99">
+  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://discord.gg/kyRgDpw8QF">
+  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+</a>
+
+
+<br />
+<br />
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=ssembara&theme=tokyonight&show_icons=true&line_height=27)](https://github.com/ssembara/ssembara)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssembara&hide=blade,css,less,html&theme=tokyonight)](https://github.com/ssembara/ssembara)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssembara&layout=compact&hide=blade,css,less,html&theme=tokyonight)](https://github.com/ssembara/ssembara)
 
 <!-- Icons -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[1.2]: https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg
 
 <!-- Links to your social media accounts -->
 
