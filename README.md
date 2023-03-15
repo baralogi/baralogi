@@ -7,10 +7,10 @@
 
 I am a software engineer based in Surabaya, Indonesia. With a greatest passion on web technologies like Laravel, Node, and React frameworks. 
 
-Get in touch via email at sembara9090@gmail.com, or You can find me on : 
+Get in touch via email at sebastian.sembara@gocement.com, or You can find me on : 
 
-<a href="https://twitter.com/ssembara99" target="_blank">
-  <img align="left" alt="S.Sembara | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+<a href="https://twitter.com/baralogi" target="_blank">
+  <img align="left" alt="Sembara's Twitter | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 <a href="https://discord.gg/kyRgDpw8QF" target="_blank">
   <img align="left" alt="Sembara's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
