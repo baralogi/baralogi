@@ -15,9 +15,6 @@ Get in touch via email at sebastian.sembara@gocement.com, or You can find me on 
 [<img src ="https://img.shields.io/discord/777668897997586454?color=738ad6&label=Sembara%27s%20Territory&logo=discord&logoColor=ffffff" />](https://discord.gg/AguK4zgTXR)
 
 
-<br />
-<br />
-
 <!--START_SECTION:stats-->
 ## &#x1f4c8; Statistics
 <a href="https://github.com/baralogi">
