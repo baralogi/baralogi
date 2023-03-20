@@ -21,8 +21,8 @@ Get in touch via email at sebastian.sembara@gocement.com, or You can find me on 
 <!--START_SECTION:stats-->
 ## &#x1f4c8; Statistics
 <a href="https://github.com/baralogi">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=baralogi&theme=tokyonight&show_icons=true" align="left" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baralogi&theme=tokyonight&layout=compact" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=baralogi&theme=tokyonight&show_icons=true" align="left" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baralogi&theme=tokyonight&layout=compact" />
 </a>
 <!--END_SECTION:stats-->
 
