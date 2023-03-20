@@ -9,19 +9,22 @@ I am a software engineer based in Surabaya, Indonesia. With a greatest passion o
 
 Get in touch via email at sebastian.sembara@gocement.com, or You can find me on : 
 
-<a href="https://twitter.com/baralogi" target="_blank">
-  <img align="left" alt="Sembara's Twitter | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://discord.gg/kyRgDpw8QF" target="_blank">
-  <img align="left" alt="Sembara's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/baralogi/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sebastianus-sembara/) 
+[<img src ="https://img.shields.io/badge/website-sembara.xyz-orange?&style=for-the-badge">](https://sembara.xyz/)
+[<img src ="https://img.shields.io/discord/777668897997586454?color=738ad6&label=Sembara%27s%20Territory&logo=discord&logoColor=ffffff" />]()
 
 
 <br />
 <br />
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=baralogi&theme=tokyonight&show_icons=true&line_height=27)](https://github.com/ssembara/baralogi)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baralogi&layout=compact&hide=blade,css,less,html&theme=tokyonight)](https://github.com/ssembara/baralogi)
+<!--START_SECTION:stats-->
+## &#x1f4c8; Statistics
+<a href="https://github.com/baralogi">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=baralogi&theme=tokyonight&show_icons=true" align="left" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baralogi&theme=tokyonight&layout=compact" />
+</a>
+<!--END_SECTION:stats-->
 
 <!-- Icons -->
 
