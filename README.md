@@ -20,8 +20,8 @@ Get in touch via email at sebastian.sembara@gocement.com, or You can find me on 
 <br />
 <br />
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=ssembara&theme=tokyonight&show_icons=true&line_height=27)](https://github.com/ssembara/ssembara)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssembara&layout=compact&hide=blade,css,less,html&theme=tokyonight)](https://github.com/ssembara/ssembara)
+[![Stats](https://github-readme-stats.vercel.app/api?username=baralogi&theme=tokyonight&show_icons=true&line_height=27)](https://github.com/ssembara/baralogi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baralogi&layout=compact&hide=blade,css,less,html&theme=tokyonight)](https://github.com/ssembara/baralogi)
 
 <!-- Icons -->
 
@@ -29,6 +29,6 @@ Get in touch via email at sebastian.sembara@gocement.com, or You can find me on 
 
 <!-- Links to your social media accounts -->
 
-[1]: https://twitter.com/ssembara99
+[1]: https://twitter.com/baralogi
 
 
