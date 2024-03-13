@@ -5,7 +5,7 @@
 
 # Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am a software engineer based in Surabaya, Indonesia. With a greatest passion on web technologies like Laravel, Node, and React frameworks. 
+I am a software engineer based in Bali, Indonesia. With a greatest passion on web technologies like Laravel, Node, and React frameworks. 
 
 Get in touch via email at sembara9090@gmail.com, or You can find me on : 
 
