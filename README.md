@@ -7,12 +7,7 @@
 
 I am a software engineer based in Bali, Indonesia. With a greatest passion on web technologies like Laravel, Node, and React frameworks. 
 
-Get in touch via email at sembara9090@gmail.com, or You can find me on : 
-
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/baralogi/)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sebastianus-sembara/) 
-[<img src ="https://img.shields.io/badge/website-sembara.xyz-orange?&style=for-the-badge">](https://sembara.xyz/)
-[<img src ="https://img.shields.io/discord/777668897997586454?color=738ad6&label=Sembara%27s%20Territory&logo=discord&logoColor=ffffff" />](https://discord.gg/AguK4zgTXR)
+Get in touch via email at sembara9090@gmail.com
 
 
 <!--START_SECTION:stats-->
